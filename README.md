@@ -68,3 +68,6 @@ This repo contains practical tips and tricks that I've learnt from teaching over
 ## Lesson planning
 
 This is the key thing you can do to improve the student lesson experience.
+
+## Marking assessments
+- Scores from assessments should be representative of what proportion of the content the student knows. This is because that's how it is naturally interpreted when someone reads a score. For that reason, I don't think negative marking should be used.
