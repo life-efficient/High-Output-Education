@@ -71,3 +71,4 @@ This is the key thing you can do to improve the student lesson experience.
 
 ## Marking assessments
 - Scores from assessments should be representative of what proportion of the content the student knows. This is because that's how it is naturally interpreted when someone reads a score. For that reason, I don't think negative marking should be used.
+- I believe that there is no point in assigning discrete grades. It obfuscates the difference between someone who scored an A and a B; Did their scores differ by 1% or 10%? Giving discrete grades also makes it no easier to communicate; it's just as easy to say 81% as it is to say B.
