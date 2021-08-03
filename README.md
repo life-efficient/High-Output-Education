@@ -47,6 +47,11 @@ This repo contains practical tips and tricks that I've learnt from teaching over
   - Given someone's background, a particular application might make more sense than another
 - Use simple language. Empathise with the current knowledge of the class.
 - Don’t rush
+- Use slides sparingly
+  - useful when you have a good visual way to show something
+  - don't waste time putting the same text you are going to say into a slide 
+- For teaching tools, rather than theory, demos are more powerful than just showing examples that you prepared earlier
+  - showing some pre-prapared doesn't teach people the iterative nature of getting to that result
 
 ### Practice
 - Practice, lots!
