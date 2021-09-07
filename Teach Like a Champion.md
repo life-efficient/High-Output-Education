@@ -8,9 +8,9 @@
 
 > Replace functionally rhetorical questions with more objective forms of impromtu assessment
 
-Functionally rhetorical questions:
-- Got it guys?
-- Everyone understand?
+Examples of common functionally rhetorical questions:
+- "Got it guys?"
+- "Everyone understand?"
 
 Replace these with questions that test for understanding
 
@@ -106,6 +106,92 @@ Having more questions than can possibly be completed allows you to cater to stud
 
 By having more problems than can reasonably be completed and ordering them by difficulty, you can adapt the class to the skill level of the students - skipping ahead a few questions or going through each of them if needed. "Choose your own adventure" style.
 
-Just because plan out the lesson in advance, doesn't mean you have to stick to it. By intentionally checking for understanding at specific points in the lesson (#6), you can adapt it based on the data. After every few problems, ask: "Should I loop back for more, push on, or re-teach this?". This allows you to respond to error with very little transaction cost or on-the-spot rethinking - it was all in the planning!
+Just because you plan out the lesson in advance, doesn't mean you have to stick to it. By intentionally checking for understanding at specific points in the lesson (#6), you can adapt it based on the data. After every few problems, ask yourself: "Should I loop back for more, push on, or re-teach this?". This allows you to respond to error with very little transaction cost or on-the-spot rethinking - it was all in the planning!
 
 "Anticipating errors and planning responses to them is one of the most productive training or planning exercises you can do as a teacher. If the students make mistakes you anticipate, you're likely to have a terrific solution; if you're wrong, you get to improve your level of insight about your students' thinking by reflecting on the dissonance between the errors you anticipated and the mistakes that actually occured"
+
+### How to plan for specific errors:
+1. List 3-5 of the most important questions you will ask in your lesson
+2. For each question, list two incorrect answers you think you're likely to get
+3. Add how you'd respond to each of the incorrect answers in your lesson plan
+
+### How to plan for classwide misunderstandings:
+
+Plan a minute of targeted questions (#2) followed by 5 minutes of "either-or time" in the lesson plan where you'll either
+1. reteach content students are struggling with
+2. or do further practice
+
+## 8. Culture of Error
+> Create an environment where your students feel safe making and discussing mistakes, so you can spend less time hunting for errors and more time fixing them.
+
+How to build a culture of error:
+1. Ask students to nominate problems
+2. Don't react to incorrect answers - demonstrate that is what you expect by never faltering.
+3. Verbally reward cross-class support and make the class feel like a team by using language like:
+    - "Great to see so many of you wishing to help and share their expertise"
+    - "Who can help out?"
+    - "Great opportunity for us to work together to figure it out. Can anyone pick up from here?"
+
+    Avoid:
+    - "Anyone else?"
+    - "Let's see if someone else can get it right"
+4. Verbally reward admitting mistakes that students learn from by saying something like "Can whoever initially got it wrong, but corrected themselves put their hand up - be proud you guys just figured it out!"
+5. 
+
+
+Reset breeches of culture of error. If anyone reacts unsupportively to another student making an error, it is your responsibility to firmly reiterate the standard. You can say something like: "Just a minute. I want to be very clear about the respect we will all show one another when we are in class. We will support each other and help one another. And we will never, ever tear down another person. We know that person could just as well be us."
+
+How you communicate and depict mistakes - both your students' AND your own - in the classroom is very important.
+
+### How to implement a Culture of Error
+1. Expect error
+    - "I expect there's going to be some disagreement here, so I want to hear a few answers." ... "Are there any other answers out there?"
+
+
+2. Withold the Answer
+
+    Students don't listen when they know they are listening to the wrong answer, even if the dicsussion around it might be useful. Take several answers even if you recieve the one you wanted, and delay revealing the correct answer until after you've discussed it.
+
+    - "I don't care if you think it's right or wrong, I just want to hear what people think"
+
+3. Manage the tell
+
+    Be careful of habits of yours that may be triggered in response to recieving an incorrect answer, without you saying so explicitly, other students might be able to tell that the answer was wrong - and disengage as a result.
+
+4. Praise Risk-Taking
+    - "This is a tough question! Who will be bold enough to start us off?"
+    - "Who wants to take a shot at our challenge question?. I love those seeing those brave hands"
+
+
+## 9. Excavate Error
+
+> Dig into errors, studying them efficiently and effectively, to better understand where students struggle and how you can best address those points.
+
+Diagnose errors when they come up and ask why that error was made. If you can do that, you will understand how to approach reteaching the idea now, and improve delivery of the same or similar material in the future.
+
+Choose one of the following 3 levels of excavating error based on what is most efficient for class.
+
+1. Assess and Move
+    Sometimes you may notice a mistake which may not warrant reteaching the entire class, especially if it is not revealed in a whole class activity. In this case, you might choose to keep moving forward and then check in with those who are struggling during periods of independent work. This allows you to 
+    - respect the time of everyone who might not need to be retaught by not interrupting another activity or diverting a lesson
+    - privately address any issues which might otherwise be embarrassing, rather than making an example out of someone in front of the class
+2. Light Excavation
+    If more than several students made the same mistake, or there is real value in the error, it can be valuable to bring them up in front of the class. To do this you can
+    - Ask for an alternative response, without revealing which is correct. "Can anyone else share another interpretation?"
+    - Compare responses by stating two given opinions and asking "Who can find evidence to support or rule out one of these answers?"
+    - Analyze wrong choices "What might lead someone to incorrectly think X?"
+    - Ask for a proposed response. "Let's say I found this hard to understand. What might be the reasons for that? What mistakes might I have made?" 
+3. Deep Excavation
+    Sometimes it may not be obvious on the surface what the cause of the error was, and whether it affected many or only few students. In this case you may want to do a deep excavation, by looking at lots of answers and clustering errors systematically. 
+    
+    When asking for more answers it is important, as mentioned earlier (#8) to manage the tell, and not give away the mistake or right answer.
+    
+Frequently ask "What is the most important question I am asking today?" and anticipate the likely errors. Leave a chunk of time in your lesson to dive into them. Add this to your lesson plan.
+
+Deeper excavation is not necessarily better, and the optimum is a balance between the types.
+
+## 10. Own and track
+
+> Have students correct or revise their own work, fostering an environment of accountability for the correct answer.
+
+When analysing a correct or incorrect answer, make it clear which it is. 
