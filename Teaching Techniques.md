@@ -1,4 +1,6 @@
-# How to teach like a Champion
+# Teaching Techniques
+
+The following are my notes on Doug Lemov's work in Teach Like a Champion.
 
 ---
 ## Part 1: Gathering data on student mastery
