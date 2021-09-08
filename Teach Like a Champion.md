@@ -194,4 +194,10 @@ Deeper excavation is not necessarily better, and the optimum is a balance betwee
 
 > Have students correct or revise their own work, fostering an environment of accountability for the correct answer.
 
-When analysing a correct or incorrect answer, make it clear which it is. 
+Students must __own__ their mistakes and be accountable for marking them as incorrect. 
+
+Students must __track__ their mistakes, rather than just removing them so that they can remember and refer to them.
+Explicitly ask students to mark any incorrect answers as correct by crossing (or commenting) out any incorrect answers and marking them with an explanation for why they are incorrect. 
+It's important that incorrect answers are not simply removed, because then there is no record of what mistake was made and how. 
+Instead have them retain the mistake, visually mark it as incorrect and annotate it with an explanation.
+This annotation also helps to prevent confusing students whether the response is right or wrong, and which parts of it specifically are wrong.
