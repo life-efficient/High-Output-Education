@@ -201,3 +201,20 @@ Explicitly ask students to mark any incorrect answers as correct by crossing (or
 It's important that incorrect answers are not simply removed, because then there is no record of what mistake was made and how. 
 Instead have them retain the mistake, visually mark it as incorrect and annotate it with an explanation.
 This annotation also helps to prevent confusing students whether the response is right or wrong, and which parts of it specifically are wrong.
+
+---
+## Part 2: Academic Ethos
+---
+
+## 11. No opt out
+
+> Turn "I don't know" into success by ensuring that students who won't try or can't answer practice getting it right.
+
+Circle back to a student who won't try after providing more scaffolding or getting an answer from another student.
+
+This is the fundamental process of learning: Get it wrong, then get it right.
+
+
+
+You know to use "No Opt Out" when you ask a question to a student and get "I don't know" as a response. Following that, do the following:
+1. Turn to another student
