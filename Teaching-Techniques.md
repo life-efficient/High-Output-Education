@@ -1,6 +1,6 @@
 # Teaching Techniques
 
-The following are my notes on Doug Lemov's work in Teach Like a Champion.
+The following are my notes on [Doug Lemov's](https://twitter.com/Doug_Lemov) work in [Teach Like a Champion](https://teachlikeachampion.com).
 
 ---
 ## Part 1: Gathering data on student mastery
