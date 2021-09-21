@@ -216,18 +216,52 @@ Circle back to a student who won't try after providing more scaffolding or getti
 
 This is the fundamental process of learning: Get it wrong, then get it right.
 
-There are several formats in which you can use No Opt Out
+There are several formats in which you can use No Opt Out:
 
 ---
 Format 1: You provide the answer, the student repeats it.
 
-1. You: \*\*asks question\*\* "James, what's the definition of X?"
-2. Student: \*\*gives wrong answer\*\*
-3. You: \*\*you provide the correct answer answer\*\* "The answer is Y. What's the answer James?"
+1. You: \*\*asks question\*\* "Amaro, what's the definition of X?"
+2. Student: \*\*gives wrong answer\*\* "The definition is Z"
+3. You: \*\*you provide the correct answer\*\* "The answer is Y. What's the answer Amaro?"
 4. Student: \*\*repeats correct answer\*\* "The answer is Y."
 
 ---
 Format 2: Another student provides the answer, the original student repeats it.
 
 1. You: \*\*asks question\*\*
-2. Student:
+2. Original Student: \*\*gives wrong answer\*\* "The definition is Z"
+3. You: 4. Student: \*\*asks another student\*\* "Maria, can you tell us the definition?"
+4. Another student: \*\*gives correct answer\*\* "The definition is Y"
+5. You: \*\*circles back\*\* "Now you Amaro. What's the answer?"
+6. Original Student: \*\*repeats correct answer\*\* "The answer is Y."
+
+---
+Format 3: Provide a cue
+1. You: \*\*asks question\*\*
+2. Student: \*\*gives wrong answer\*\*
+3. You: 
+
+    \*\*provides a cue\*\* 
+    
+    For example:
+    - "Think about how this relates to the concept of X."
+    - "You said that applies in all cases. Is that right?"
+    - "When we see a problem like this, we apply the 3 step process we talked about"
+
+    \*\*asks question again\*\* 
+    - "See if you can get it now"
+4. Student: \*\* Answers correctly \*\*
+
+---
+Format 4: Another student provides a cue, then the original student uses it to answer
+1. You: \*\*Asks question\*\*
+2. Student: \*\*Gives wrong answer\*\*
+3. You: \*\*Asks another student for a cue\*\*
+
+    E.g.
+    - "Who can tell us the first step?"
+    - "Who can tell Amaro where we can find the answer?"
+4. Another Student: \*\*provides cue\*\*
+5. Original student: \*\*gives correct answer\*\*
+6. You: \*\*thanks students\*\*
