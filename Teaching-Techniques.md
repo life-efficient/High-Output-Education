@@ -216,7 +216,18 @@ Circle back to a student who won't try after providing more scaffolding or getti
 
 This is the fundamental process of learning: Get it wrong, then get it right.
 
+There are several formats in which you can use No Opt Out
 
+---
+Format 1: You provide the answer, the student repeats it.
 
-You know to use "No Opt Out" when you ask a question to a student and get "I don't know" as a response. Following that, do the following:
-1. Turn to another student
+1. You: \*\*asks question\*\* "James, what's the definition of X?"
+2. Student: \*\*gives wrong answer\*\*
+3. You: \*\*you provide the correct answer answer\*\* "The answer is Y. What's the answer James?"
+4. Student: \*\*repeats correct answer\*\* "The answer is Y."
+
+---
+Format 2: Another student provides the answer, the original student repeats it.
+
+1. You: \*\*asks question\*\*
+2. Student:
