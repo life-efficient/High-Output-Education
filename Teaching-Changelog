@@ -1,15 +1,18 @@
 # Teaching changelog
 
-
 WIP
 - Defined an actual process for navigating around the rooms
 - Project based pathways
 
 2021-12-08
+- Named dynamic cohort grouping software "dynaco"
+- Updated dynaco to also generate an agenda and add it to the message to send to each group
 - Add a new rule: every student has to see at least one of the teaching team during every session
 - Implement immediate feedback for anyone who gives a demo at end of meeting - what a fantastic way to train them
 - First alumni engineer (Eddy) asks questions based on those defined in the content
 - Starting to feel like notebooks are a limiting format. Sometimes you need to do practicals mid-way through, rather than reading the whole noebook, and then doing all of the practicals.
+- Ahmed had the idea that we could broadcast a message to the rooms 5 mins before wrapping up to prepare everyone. Literally never noticed that broadcast feature.
+- Eddy had the idea to close the breakout rooms at the end like we used to... why did we stop doing that?
 
 2021-12-30
 - Ensured that everyone in each group was in the same starting cohort after someone said it seemed like they were being made to teach others
@@ -17,7 +20,7 @@ WIP
 
 2021-11-29
 - Introduce demos to bring back some form of live teaching
-- Dynamic cohorts - groups are generated programmatically to group people working on nearby lessons together
+- Dynamic cohorts - groups are generated programmatically to group people working on nearby lessons together. This software also saves the exact message you should share with a group to a file, detailing who is in what room.
 
 ?
 - Support button
