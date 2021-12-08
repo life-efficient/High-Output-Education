@@ -3,13 +3,21 @@
 
 WIP
 - Defined an actual process for navigating around the rooms
-- Dynamic cohorts
 - Project based pathways
 
+2021-12-08
+- Add a new rule: every student has to see at least one of the teaching team during every session
+- Implement immediate feedback for anyone who gives a demo at end of meeting - what a fantastic way to train them
+- First alumni engineer (Eddy) asks questions based on those defined in the content
+- Starting to feel like notebooks are a limiting format. Sometimes you need to do practicals mid-way through, rather than reading the whole noebook, and then doing all of the practicals.
 
-
+2021-12-30
+- Ensured that everyone in each group was in the same starting cohort after someone said it seemed like they were being made to teach others
+- Defined questions in the content
 
 2021-11-29
+- Introduce demos to bring back some form of live teaching
+- Dynamic cohorts - groups are generated programmatically to group people working on nearby lessons together
 
 ?
 - Support button
