@@ -1,0 +1,51 @@
+key_moments:
+#   # OUTSIDE OF OUR REMIT
+#   - name: First contact
+#     specification:
+#       - Not overpromising
+      
+  - name: Onboarding/orientation
+    type: one-time
+    specification:
+      - User greeted by name by smiling instructor
+      - User spoken directly to by instructor and personally asked about their background and hobbies
+      
+  - name: Meeting first alumni engineer
+    specification:
+      - Alumni engineer greets them by name whilst smiling
+      - "Alumni engineer makes it clear that they were once in the users' position by telling them their before and after AiCore story in 2 sentences in the format: Before AiCore I was X, and now I'm Y!"
+      
+  - name: Starting their first project
+    specification: 
+      - Cinematic experience
+      
+  - name: Working with others in a breakout room
+    type: recurring
+    specification:
+      - Environment is constantly collaborative
+      - Small teams of at most 4 people
+    
+  - name: Attending a demo
+    type: recurring
+    specification:
+      - They are inspired by the topic
+            
+  - name: Realising that they can teach someone else
+    specification:
+      - 'One of our team or an alumni engineer points out to them "You see what you just did there? You just taught someone to do something that 3 months ago, you might never have believed you could do"'
+      
+  - name: Completing their first project and realising that they, and they alone, built an industry-grade system
+    type: one-off
+    specification:
+      - Cinematic climax and congratulations. Cannot be anticlimatic. 
+      - We could send them a personalised video congratulating them.
+      - Clearly explains the next steps
+      - "Points out that AiCore doesn't end there"
+
+  - name: Getting hired
+    specification:
+      - They need to attribute that success to AiCore
+      - They recieved a personalised video congratulations
+      
+bonus_moments:
+  - name: Video congratulations on their birthday
