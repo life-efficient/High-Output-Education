@@ -9,31 +9,52 @@ key_moments:
     specification:
       - User greeted by name by smiling instructor
       - User spoken directly to by instructor and personally asked about their background and hobbies
-      
+      - Shown grid view of all people who have graduated and been hired and what companies the work at. 
+      - Add in a demonstration of how classes are run, either video or live. 
+      - Show some of the labs former students have completed broken down by specialisation. Demo the project, where and where the junior engineer now works.     
+
   - name: Meeting first alumni engineer
     specification:
       - Alumni engineer greets them by name whilst smiling
       - "Alumni engineer makes it clear that they were once in the users' position by telling them their before and after AiCore story in 2 sentences in the format: Before AiCore I was X, and now I'm Y!"
+      - Explain how the teaching helped them in their workplace. For instance Dominika used Selenium in her workplace learned from AiCore. 
       
   - name: Starting their first project
     specification: 
-      - Cinematic experience
+      - Cinematic experience.
+      - Meeting with instructor to kick off starting first project. 
+      - Shown examples of the best projects created in the past for inspiration.
       
+  - name: Completing lab
+    specification:
+      - Pop up on website with a congratulations and what lab is coming next. 
+      - Certification sent out for completing the lab.
+
+  - name: Starting their specialisation
+    specification:
+      - Congratulations on progress so far.
+      - Introduction lecture or video showing the differences between each specialisation and job prospects.
+      - Demo previously finished labs for each specialisation. 
+      - Overview of modules which will be taught and labs. 
+
   - name: Working with others in a breakout room
     type: recurring
     specification:
       - Environment is constantly collaborative
       - Small teams of at most 4 people
+      - Initially instructor shares screen and completes a practical with the group. Asking group to tell instructor what we should do. 
     
   - name: Attending a demo
     type: recurring
     specification:
       - They are inspired by the topic
+      - Demos are relevant to parts of the course they are on or struggle with currently. 
             
   - name: Realising that they can teach someone else
     specification:
       - 'One of our team or an alumni engineer points out to them "You see what you just did there? You just taught someone to do something that 3 months ago, you might never have believed you could do"'
-      
+
+
   - name: Completing their first project and realising that they, and they alone, built an industry-grade system
     type: one-off
     specification:
@@ -41,11 +62,13 @@ key_moments:
       - We could send them a personalised video congratulating them.
       - Clearly explains the next steps
       - "Points out that AiCore doesn't end there"
+      - Project marked and feedback given.
+      - Upvoted on LinkedIn when they release their project video. 
 
   - name: Getting hired
     specification:
       - They need to attribute that success to AiCore
       - They recieved a personalised video congratulations
-      
+      - Notification is sent to Slack channel announcing that the junior engineer got hired with x and a congratulations. 
 bonus_moments:
   - name: Video congratulations on their birthday
