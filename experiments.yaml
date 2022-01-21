@@ -1,0 +1,21 @@
+list_of_experiments:
+  - description: define groups to be in for junior engineers based on specialisation project they're on.
+    - expected_positives: 
+      - They could be missing out on key knowledge that other engineers from other cohorts have to progress with the project.
+      - Engineers will have more support from other junior engineers instead of being alone in a room.
+      - improves their teamwork skills and collaboration
+    - expected_negatives:
+        - Members of different cohorts won't want to mix. 
+  - description: Create a poll to have users pick which demo they would like run on a given day.
+    - expected_positives:
+      - We will have the majority of users getting the demo we want.
+      - We'll get better insight to which demos users most enjoy whether that's seeing interesting AI demos or demos related to content.
+      - We can then rank the demos of most popular so we get a better idea of which ones to run?
+    - expected_negatives:
+      - Small proportion of the users that need help most won't be getting the demo they want.
+  - description:
+    - expected_positives:
+      - 
+    - expected_negatives:
+      - 
+  
