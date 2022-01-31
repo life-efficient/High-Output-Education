@@ -38,4 +38,35 @@ list_of_experiments:
   
   - description: Have outside data scientist/data engineer do a demo
     - ex
+
+  - description: Poll users to identify what tools/topics they would like to learn which are currently not covered in our content
+    - expected_positives:
+      - Provides a more tailored experience to users
+      - Can help widen our content scope and open new opportunities
+    - expected_negatives:
+      - May make us look like we are not the "authority" who know all about the latest technology trends
+      - Might include topics that are not directly related to AI
   
+  - description: Invite users to a monthly session/seminar implemented by 3rd party companies (such as Cloudera, Snowflake)
+    - expected_positives:
+      - Introduces users to new tools in the market 
+      - Can also be useful training to our training team
+    - expected_negatives:
+      - Depending on their background and specialisation, the tool may not be interesting to users
+      - Might take time away from their project work
+  
+  - description: Add a weekly blog to the Portal containing links to innovative ideas, fun articles, new technology etc
+    - expected_positives:
+      - Helps to market AiCore as a thought leader in the technology space both to current and potentially new users
+      - Can provide useful information and helps keep our team at the forefront of technology
+    - expected_negatives:
+      - News constant updating to stay fresh and relevant
+      - Will need dedicated time from our training and/or engineering team
+
+  - description: Add a new software feature to the Portal which enables users to search throughout all of the content (FAQs, notebooks etc) using a keyword (Google for AiCore) 
+    - expected_positives:
+      - Helps users identify all relevant material regarding a particilar tool, project or issue they are having
+      - Could help reduce requests for Support and FAQ material in the long term 
+    - expected_negatives:
+      - Could be technically challenging and require time 
+      - Might not be a priority engineering task
