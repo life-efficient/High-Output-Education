@@ -6,6 +6,7 @@ list_of_experiments:
       - improves their teamwork skills and collaboration
     - expected_negatives:
         - Members of different cohorts won't want to mix. 
+
   - description: Create a poll to have users pick which demo they would like run on a given day.
     - expected_positives:
       - We will have the majority of users getting the demo we want.
@@ -13,9 +14,28 @@ list_of_experiments:
       - We can then rank the demos of most popular so we get a better idea of which ones to run?
     - expected_negatives:
       - Small proportion of the users that need help most won't be getting the demo they want.
-  - description:
+
+  - description: Have an alumni engineer run a demo
     - expected_positives:
-      - 
+      - Get insight into how things might be done in industry
+      - Gives junior engineers inspiration for where they could be once completing the course
     - expected_negatives:
+      - Possible alumni engineers wouldn't want to show things they have learned in industry due to confidentiality 
+      - Alumni engineers might opt not to do it
+
+  - description: Alumni engineers assigned to specific junior engineers to help with projects
+    - expected_positives:
+      - junior engineers have a direct contact to help with the project they know where to go
+      - Takes time off the teams hands to help with projects
+    - expected_negatives:
+      - May be too time consuming for alumni engineers
+  
+  - description: Assign team members direct contact for helping students with project
+    - expected_positives:
+      - Junior engineers know who their point of contact will be for the project
+      - Saves time with other team members not knowing the progress of each student saving time.
       - 
+  
+  - description: Have outside data scientist/data engineer do a demo
+    - ex
   
