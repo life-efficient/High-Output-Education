@@ -34,10 +34,6 @@ list_of_experiments:
     - expected_positives:
       - Junior engineers know who their point of contact will be for the project
       - Saves time with other team members not knowing the progress of each student saving time.
-      - 
-  
-  - description: Have outside data scientist/data engineer do a demo
-    - ex
 
   - description: Poll users to identify what tools/topics they would like to learn which are currently not covered in our content
     - expected_positives:
@@ -70,3 +66,6 @@ list_of_experiments:
     - expected_negatives:
       - Could be technically challenging and require time 
       - Might not be a priority engineering task
+      
+  - description: Have outside data scientist/data engineer do a demo
+
