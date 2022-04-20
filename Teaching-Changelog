@@ -1,5 +1,13 @@
 # Teaching changelog
 
+2022-04-20
+- Named the breakout rooms. This allowed users to self-organise. This already seems to have had a great impact. Previously, manual input from instructors was required to explain to people where they should be.
+- Removed telling users which group to go to in the daily agenda message. Users now self-organise instead.
+- Removed the default items from the agenda message which was sent to users on a daily basis. This should be the default behaviour so we should stop telling users that this is the exact time they should be doing it.
+
+2022-04-19
+- Planned to start tracking user engagement by monitoring task-days (tasks checked off multiplied by their expected duration in days)
+
 2022-03-16
 - Started creating "microcontent" by breaking up the lesson on Evaluation Metrics into 10 micro lessons
 
@@ -16,7 +24,6 @@
 - Defined an actual process for navigating around the rooms
 
 2021-12-08
-- Named dynamic cohort grouping software "dynaco"
 - Updated dynaco to also generate an agenda and add it to the message to send to each group
 - Add a new rule: every student has to see at least one of the teaching team during every session
 - Implement immediate feedback for anyone who gives a demo at end of meeting - what a fantastic way to train them
